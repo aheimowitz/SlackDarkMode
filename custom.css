@@ -141,7 +141,6 @@ ts-jumper input[type="text"],
 }
 
 .c-message_list__day_divider__label__pill {
-    background: var(--background-elevated);
     color: var(--text-bright);
 }
 .attachment_group .inline_attachment.message_unfurl .attachment_source .attachment_source_name a, .attachment_group .inline_attachment.message_unfurl .attachment_source .attachment_source_name span
@@ -158,10 +157,6 @@ ts-jumper input[type="text"],
 
 .msg_inline_attachment_column.column_border {
     background-color: var(--border-dim);
-}
-
-.c-member_slug--link {
-    background: var(--background-elevated);
 }
 
 .channel_header, #col_messages, #footer {
@@ -262,7 +257,6 @@ li.active[class] span,
 
 /* new scrollbar */
 .p-channel_sidebar div.c-custom_scrollbar__thumb_vertical, .p-channel_sidebar div.c-scrollbar__bar {
-  background: var(--background-elevated);
   border: 1px solid var(--scrollbar-border);
 }
 
@@ -327,7 +321,6 @@ ts-jumper input[type="text"]::-webkit-input-placeholder {
 }
 
 textarea, input[type="text"], #file_comment_textarea {
-	background-color: var(--background-elevated) !important;
    border-color: var(--border-dim) !important;
    color: var(--text) !important;
 }
