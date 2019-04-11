@@ -729,13 +729,14 @@ ts-message .reply_bar:hover {
    border-color: var(--border-dim);
 }
 
+/* UNDO
 #archives_return, .messages_banner {
    color: var(--text);
    background-color: var(--background-elevated);
    border: 1px solid var(--border-bright);
    border-bottom: 0px;
    border-radius: 10px 10px 0 0;
-}
+} */
 
 #threads_msgs_scroller_div, ts-thread {
    background-color: var(--background);
