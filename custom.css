@@ -367,9 +367,6 @@ ts-message .action_hover_container .btn_msg_action,
 #search_filters a,
 .menu,
 .menu #menu_items_scroller,
-.btn, .btn_outline {
-  background: var(--background-elevated) !important;
-}
 
 
 #flex_contents .heading,
@@ -435,7 +432,6 @@ ts-message .action_hover_container .btn_msg_action,
 }
 
 .ql-container.texty_single_line_input {
-  background-color: var(--background-elevated);
   color: var(--text);
 }
 
@@ -451,7 +447,6 @@ ts-message .action_hover_container .btn_msg_action,
 .feature_name_tagging_client ts-message .mention, ts-message .mention,
 span.match {
   border: 1px solid var(--border-bright) !important;
-  background-color: var(--background-elevated) !important;
   font-weight: bold;
   padding: 2px 4px;
   margin: 2px;
