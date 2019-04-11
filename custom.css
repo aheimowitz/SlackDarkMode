@@ -806,7 +806,6 @@ ts-message.active .edited, ts-message.active .reply_bar .last_reply_at, ts-messa
 
 .messages_banner, .p-archives_banner {
    color: var(--text);
-   background-color: var(--background-elevated);
    border: 1px solid var(--border-bright);
    border-bottom: 0px;
    border-radius: 10px 10px 0 0;
