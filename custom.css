@@ -141,7 +141,6 @@ ts-jumper input[type="text"],
 }
 
 .c-message_list__day_divider__label__pill {
-    background: var(--background-elevated);
     color: var(--text-bright);
 }
 .attachment_group .inline_attachment.message_unfurl .attachment_source .attachment_source_name a, .attachment_group .inline_attachment.message_unfurl .attachment_source .attachment_source_name span
